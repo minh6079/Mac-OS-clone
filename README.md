@@ -3,8 +3,7 @@
 </h1>
                                     
 <hr> <br>
-
-
+I've crafted a sleek and interactive Mac OS desktop experience entirely using HTML, CSS, and JavaScript, bringing the familiar look and feel of macOS to the web. Explore a user-friendly interface and enjoy a seamless web-based desktop environment.
 <hr>
 
 📌 Please feel free to contribute to this project with your commits, and share this with your friends if you like this projects.😁 😃
