@@ -20,24 +20,16 @@ I've crafted a sleek and interactive Mac OS desktop experience entirely using HT
 > - [x] notification page
 > - [x] Add more notes on note app
 > - [x] Calculator app 
-> - [x] Control center
-> - [ ] Preference app     
+> - [x] Control center  
 > - [x] Map app      
-> - [ ] Siri  
-> - [x] VSCode app      
-> - [ ] Weather app      
-> - [ ] Calendar app      
+> - [x] VSCode app               
 > - [x] Launchpad      
 > - [x] search in Launchpad      
 > - [x] Launchpad icons vibrate    
-> - [ ] Launchpad change page 
 > - [x] Launchpad animation      
-> - [ ] dragable icon on dock      
-> - [ ] right click to duck icons
 > - [x] right click to desktop
 > - [x] shortcuts for opening app and other parts of site    
 > - [x] Spotlight search
-> - [ ] Change dekstop background
 > - [x] Spotlight search
 > - [x] Add change brightness range input 
 
