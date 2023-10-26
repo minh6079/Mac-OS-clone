@@ -2,7 +2,7 @@
   Mac Os Clone
 </h1>
                                     
-<hr> <br>
+<hr> 
 I've crafted a sleek and interactive Mac OS desktop experience entirely using HTML, CSS, and JavaScript, bringing the familiar look and feel of macOS to the web. Explore a user-friendly interface and enjoy a seamless web-based desktop environment.
 <hr>
 
