@@ -38,3 +38,11 @@ I've crafted a sleek and interactive Mac OS desktop experience entirely using HT
 > Alt + t = opening Terminal  <br>
 > Alt + o = opening Launchpad <br>
 > Alt + s = opening serach in  launchpad <br>
+
+### Notice: 
+Please install the extension https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe or
+ https://microsoftedge.microsoft.com/addons/detail/allow-xframeoptions/didlaemnndoppgpmmoglkcmaoghlicdp to see the apple maps website in the iframe
+
+## What's changed in the index.html from the index_old html: <br>
+> Replaced google maps by apple maps
+> Replaced the vscode app by Monaco Editor (used by vscode, link github: https://github.com/microsoft/monaco-editor.git)
