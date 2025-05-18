@@ -44,5 +44,5 @@ Please install the extension https://chromewebstore.google.com/detail/ignore-x-f
  https://microsoftedge.microsoft.com/addons/detail/allow-xframeoptions/didlaemnndoppgpmmoglkcmaoghlicdp to see the apple maps website in the iframe
 
 ## What's changed in the index.html from the index_old html: <br>
-> Replaced google maps by apple maps
+> Replaced google maps by apple maps <br>
 > Replaced the vscode app by Monaco Editor (used by vscode, link github: https://github.com/microsoft/monaco-editor.git)
