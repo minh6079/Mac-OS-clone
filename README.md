@@ -48,6 +48,6 @@ Please install the extension https://chromewebstore.google.com/detail/ignore-x-f
 - macOS monterey_old.html: fork from github.com/AtharvaJoshi12/Mac-OS-clone and merge to 1 file
 - macOS monterey.html: change google map to apple map, vscode to monaco editor
 - macOS sequoia.html: change wallpaper
-- macOS tahoe beta 1.html: change icons and wallpaper and transparent dock
+- macOS tahoe beta 1.html: change icons and wallpaper and transparent dock, add dropdowns
 - macOS tahoe beta 2.html: calculator all now can't be maximized
 - macOS tahoe beta 3.html: new spotlight
