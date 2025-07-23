@@ -34,11 +34,20 @@ I've crafted a sleek and interactive Mac OS desktop experience entirely using HT
 > - [x] Add change brightness range input 
 
 
-## list of Shorcuts : <br>
+## List of Shorcuts : <br>
 > Alt + t = opening Terminal  <br>
 > Alt + o = opening Launchpad <br>
 > Alt + s = opening serach in  launchpad <br>
 
-### Notice: 
+### Notice!
 Please install the extension https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe or
  https://microsoftedge.microsoft.com/addons/detail/allow-xframeoptions/didlaemnndoppgpmmoglkcmaoghlicdp to see the apple maps website in the iframe
+
+
+### Changelog:
+- macOS monterey_old.html: fork from github.com/AtharvaJoshi12/Mac-OS-clone and merge to 1 file
+- macOS monterey.html: change google map to apple map, vscode to monaco editor
+- macOS sequoia.html: change wallpaper
+- macOS tahoe beta 1.html: change icons and wallpaper and transparent dock
+- macOS tahoe beta 2.html: calculator all now can't be maximized
+- macOS tahoe beta 3.html: new spotlight
