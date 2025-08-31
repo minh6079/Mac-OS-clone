@@ -52,3 +52,4 @@ Please install the extension https://chromewebstore.google.com/detail/ignore-x-f
 - macOS tahoe beta 2.html: calculator all now can't be maximized
 - macOS tahoe beta 3.html: new spotlight
 - macOS tahoe beta 4.html: spotlight get updated
+- macOS tahoe beta 5.html: fix app name bold
